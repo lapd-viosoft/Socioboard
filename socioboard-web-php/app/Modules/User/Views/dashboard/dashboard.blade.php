@@ -197,8 +197,7 @@
                         add social
                         profiles like
                         [ Facebook,
-                        Twitter,
-                        Instagram, YouTube ]</p>
+                        Twitter, LinkedIn, Instagram, YouTube ]</p>
                 </div>
             </div>
         </div>

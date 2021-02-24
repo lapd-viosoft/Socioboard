@@ -83,12 +83,12 @@
                                                            aria-controls="pills-twitter-profile"
                                                            aria-selected="false"><i class="fab fa-twitter"></i></a>
                                                     </li>
-                                                    {{--<li class="nav-item">--}}
-                                                        {{--<a class="nav-link" id="pills-linkedin-profile-tab"--}}
-                                                           {{--data-toggle="pill" href="#pills-linkedin-profile" role="tab"--}}
-                                                           {{--aria-controls="pills-linkedin-profile"--}}
-                                                           {{--aria-selected="false"><i class="fab fa-linkedin-in"></i></a>--}}
-                                                    {{--</li>--}}
+                                                    <li class="nav-item">
+                                                        <a class="nav-link" id="pills-linkedin-profile-tab"
+                                                           data-toggle="pill" href="#pills-linkedin-profile" role="tab"
+                                                           aria-controls="pills-linkedin-profile"
+                                                           aria-selected="false"><i class="fab fa-linkedin-in"></i></a>
+                                                    </li>
 {{--                                                    <li class="nav-item">--}}
 {{--                                                        <a class="nav-link" id="pills-pinterest-profile-tab"--}}
 {{--                                                           data-toggle="pill" href="#pills-pinterest-profile"--}}
